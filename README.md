@@ -1,5 +1,3 @@
-# Error-Postgres-Socket
-
 ## Fixing PostgreSQL socket connection error on Unix socket
 
 ### Problem
